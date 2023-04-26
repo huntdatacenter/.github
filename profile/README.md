@@ -2,6 +2,8 @@
 
 Welcome to [HUNT Cloud](https://docs.hdc.ntnu.no/). We are a small team of scientific instrument makers located at NTNU, Norway.
 
+HUNT Cloud provides services for sensitive data analysis. Our services include solutions for data storage, data computation and data transfers within a high-trust framework.
+
 The HUNT Study has handled sensitive digital information since 1984. [HUNT Cloud](https://docs.hdc.ntnu.no/) was established in 2013 to elevate the collection, accessibility and exploration of large scale information. HUNT Cloud is owned by NTNU and operated by HUNT Research Centre at the Department of Public Health and Nursing at the Faculty of Medicine and Health Sciences.
 
 <!--
