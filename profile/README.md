@@ -1,6 +1,8 @@
 ## Hi there 🧙‍♂️
 
-HUNT Cloud is shaped by a small team of scientific instrument makers located at NTNU, Norway.
+Welcome to HUNT Cloud. We are a small team of scientific instrument makers located at NTNU, Norway.
+
+The HUNT Study has handled sensitive digital information since 1984. HUNT Cloud was established in 2013 to elevate the collection, accessibility and exploration of large scale information. HUNT Cloud is owned by NTNU and operated by HUNT Research Centre at the Department of Public Health and Nursing at the Faculty of Medicine and Health Sciences.
 
 <!--
 
